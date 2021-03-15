@@ -1,0 +1,22 @@
+main#caixajogo{
+    text-align: center;
+    font-size: 2.0em;
+}
+
+p.gametitulo{
+    color: black;
+    font-size: 1.5em;
+    font-weight: 900;
+    text-shadow: 2px 2px 0 grey;
+}
+
+p.texto1{
+    border: 5px solid white;
+    border-style: dotted;
+    width: 500px;
+    margin-left: 424px;
+    font-size: 30px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}

@@ -1,0 +1,34 @@
+main#caixacorrida{
+    font-size: 2.0em;
+    text-align: center;
+}
+
+p.esportetitulo{
+    background-color: black;
+    font-size: 1.5em;
+    font-weight: 900;
+    text-shadow: 2px 2px 0 gray;
+    color: white;
+}
+
+p.esportetexto{
+    color: white;
+    background-color: black;
+    border: 4px solid white;
+    border-style: dotted;
+    border-radius: 20px;
+    padding: 20px 20px 20px 20px;
+    width: 460px;
+    text-align: justify;
+    margin-left: 450px;
+}
+
+p.editarusain{
+    background-color: black;
+}
+
+p.linkando1{
+    font-style: italic;
+    width: 1550px;
+    font-size: 20px;
+}
